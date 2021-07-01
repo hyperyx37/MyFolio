@@ -173,34 +173,71 @@ const openSource = {
 // Some big projects you have worked on
 
 const bigProjects = {
-  title: "Big Projects",
-  subtitle: "SOME STARTUPS AND COMPANIES THAT I HELPED TO CREATE THEIR TECH",
+  title: "Projects",
+  subtitle: "SOME ACADEMIC AND PERSONAL PROJECTS ON GITHUB",
   projects: [
     {
-      image: require("./assets/images/saayaHealthLogo.webp"),
-      projectName: "Saayahealth",
-      projectDesc: "Lorem ipsum dolor sit amet, consectetur adipiscing elit",
+      image: require("./assets/images/SketchPad.png"),
+      projectName: "Java SketchPad",
+      projectDesc:
+        "Use Java AWT API to program a sketchpad program with additional functions of selection, move, cut, copy, paste and undo",
       footerLink: [
         {
-          name: "Visit Website",
-          url: "http://saayahealth.com/"
+          name: "Visit Github Repository",
+          url: "https://github.com/hyperyx37/SketchPad"
         }
         //  you can add extra buttons here.
       ]
     },
     {
-      image: require("./assets/images/nextuLogo.webp"),
-      projectName: "Nextu",
-      projectDesc: "Lorem ipsum dolor sit amet, consectetur adipiscing elit",
+      image: require("./assets/images/HeartDisease.png"),
+      projectName: "HeartDisease analysis",
+      projectDesc: "Implement several models to analyze heart disease",
       footerLink: [
         {
-          name: "Visit Website",
-          url: "http://nextu.se/"
+          name: "Visit Github Repository",
+          url: "https://github.com/hyperyx37/HeartDisease"
         }
+        //  you can add extra buttons here.
+      ]
+    },
+    {
+      image: require("./assets/images/Java-Covid-Tracker.webp"),
+      projectName: "Java Covid Tracker",
+      projectDesc: "Track the cases of Covid in different areas",
+      footerLink: [
+        {
+          name: "Visit Github Repository",
+          url: "https://github.com/hyperyx37/Java-Covid-Tracker"
+        }
+        //  you can add extra buttons here.
+      ]
+    },
+    {
+      image: require("./assets/images/Calculator.png"),
+      projectName: "Java Calculator",
+      projectDesc: "Use Java AWT API to design a simple calculator project",
+      footerLink: [
+        {
+          name: "Visit Github repository",
+          url: "https://github.com/hyperyx37/Calculator"
+        }
+      ]
+    },
+    {
+      image: require("./assets/images/Github.png"),
+      projectName: "More Projects",
+      projectDesc: "",
+      footerLink: [
+        {
+          name: "Visit Github Homepage",
+          url: "https://github.com/hyperyx37"
+        }
+        //  you can add extra buttons here.
       ]
     }
   ],
-  display: false // Set false to hide this section, defaults to true
+  display: true // Set false to hide this section, defaults to true
 };
 
 // Achievement Section
