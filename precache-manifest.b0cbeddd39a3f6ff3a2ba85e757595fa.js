@@ -1,47 +1,55 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "10c9d1fcb8f5de9542dc9ed3324f0dd6",
+    "revision": "1e20a62fa10f5f9b63864258f3c9d8d3",
     "url": "/MyFolio/index.html"
   },
   {
-    "revision": "902d52254185b9c76e10",
+    "revision": "e0ac63f7430ec5374fa2",
     "url": "/MyFolio/static/css/3.25727338.chunk.css"
   },
   {
-    "revision": "63f5c1136432e4b01bda",
+    "revision": "244bc891174ab4703aef",
     "url": "/MyFolio/static/css/4.a8329f31.chunk.css"
   },
   {
-    "revision": "8ea363754aafc110f537",
+    "revision": "5d91b71a2f17086fabe2",
     "url": "/MyFolio/static/css/main.9f64e7e4.chunk.css"
   },
   {
-    "revision": "b863223b418e23822080",
-    "url": "/MyFolio/static/js/2.8e6de723.chunk.js"
+    "revision": "2cac4bcd7eca4d4cc339",
+    "url": "/MyFolio/static/js/2.1ed1c7ed.chunk.js"
   },
   {
     "revision": "b045256696e9edb485ef902b6be54c14",
-    "url": "/MyFolio/static/js/2.8e6de723.chunk.js.LICENSE.txt"
+    "url": "/MyFolio/static/js/2.1ed1c7ed.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "902d52254185b9c76e10",
-    "url": "/MyFolio/static/js/3.7f5bb110.chunk.js"
+    "revision": "e0ac63f7430ec5374fa2",
+    "url": "/MyFolio/static/js/3.5f67440b.chunk.js"
   },
   {
-    "revision": "63f5c1136432e4b01bda",
-    "url": "/MyFolio/static/js/4.84f00cb1.chunk.js"
+    "revision": "244bc891174ab4703aef",
+    "url": "/MyFolio/static/js/4.fce59b02.chunk.js"
   },
   {
-    "revision": "8ea363754aafc110f537",
-    "url": "/MyFolio/static/js/main.0c99b7ae.chunk.js"
+    "revision": "5d91b71a2f17086fabe2",
+    "url": "/MyFolio/static/js/main.8a743d4a.chunk.js"
   },
   {
-    "revision": "7b58ff20b176dc46828a",
-    "url": "/MyFolio/static/js/runtime-main.bdaa6c29.js"
+    "revision": "2be596ec6825754f2baf",
+    "url": "/MyFolio/static/js/runtime-main.ccf1c917.js"
   },
   {
     "revision": "a3752c4bf72688b3db38d0911cf75f61",
     "url": "/MyFolio/static/media/Agustina.a3752c4b.woff"
+  },
+  {
+    "revision": "59a6979d4be1bebb30841252c38613b9",
+    "url": "/MyFolio/static/media/Github.59a6979d.png"
+  },
+  {
+    "revision": "f4d539c8a4a27eefcfbb7976881d973c",
+    "url": "/MyFolio/static/media/Java-Covid-Tracker.f4d539c8.webp"
   },
   {
     "revision": "847627bffd52aab57ce2e903f144e07f",
@@ -84,20 +92,12 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/MyFolio/static/media/manOnTable.52be3144.svg"
   },
   {
-    "revision": "829ad0a1deef4d7295adfecdf12df2be",
-    "url": "/MyFolio/static/media/nextuLogo.829ad0a1.webp"
-  },
-  {
     "revision": "ee62cb58630f29a6e6201b49d4c03728",
     "url": "/MyFolio/static/media/pwaLogo.ee62cb58.webp"
   },
   {
     "revision": "507c3a23f87ee1560ad62c7ce8139e1b",
     "url": "/MyFolio/static/media/quoraLogo.507c3a23.png"
-  },
-  {
-    "revision": "25018d29d5ab115bc51c3e9a2d92f90f",
-    "url": "/MyFolio/static/media/saayaHealthLogo.25018d29.webp"
   },
   {
     "revision": "3440939881da8339d1597e8d77cdf850",
